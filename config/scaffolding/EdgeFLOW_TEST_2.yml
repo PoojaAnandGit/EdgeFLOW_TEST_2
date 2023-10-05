@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeFLOW_TEST_2
+  gitServerName: test
+  gitUrl: https://github.com/PoojaAnandGit/EdgeFLOW_TEST_2
+  gitUsername: PoojaAnandGit
+  gitToken: edge.scaffolding.EdgeFLOW_TEST_2.test.gitToken
+  gitBranch: main
